@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment secrets
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large/generated video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Generated output
+output/
+outputs/
+
+# Training/generated model runs
+runs/
+weights/
+
+# Local datasets / temporary files
+*.zip
+*.rar
+
+# Python packaging
+build/
+dist/
+*.egg-info/
